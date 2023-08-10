@@ -1,0 +1,61 @@
+{
+    "text1": {
+    "t": "રિએક્ટજેએસ એપ્લિકેશનની નવી દુનિયામાં આપનું સ્વાગત છે",
+    "currentDate": "આજે તારીખ {{date, DATE_LONG}}"
+    },
+    "text2": {
+    "t": "આ રિએક્ટજેએસ એપ્લિકેશન રિયેક્ટ હુક અને I18NEXT સાથે છે"
+    },
+    "labels": {
+        "firstName": "જોન",
+        "lastName": "ડો",
+        "age": 30,
+        "email": "johndoe@example.com",
+        "address": {
+          "street": "123 મેન સ્ટ્રીટ",
+          "city": "ન્યૂયોર્ક",
+          "state": "ન્યૂયોર્ક",
+          "zipCode": "10001",
+          "country": "યુનાઇટેડ સ્ટેટ્સ"
+        },
+        "phoneNumbers": [
+          {
+            "type": "ઘર",
+            "number": "555-1234"
+          },
+          {
+            "type": "કાર્યસ્થળ",
+            "number": "555-5678"
+          }
+        ],
+        "hobbies": ["વાંચન", "પેઇન્ટિંગ", "દૌડવા"],
+        "education": [
+          {
+            "degree": "સાયન્સનો બેચલર",
+            "major": "કમ્પ્યુટર સાયન્સ",
+            "university": "ABC યુનિવર્સિટી",
+            "year": 2015
+          },
+          {
+            "degree": "વ્યવસાય વિશેષજ્ઞતાનો માસ્ટર",
+            "major": "ફાઇનાન્સ",
+            "university": "XYZ યુનિવર્સિટી",
+            "year": 2018
+          }
+        ],
+        "employmentHistory": [
+          {
+            "company": "XYZ કૉર્પોરેશન",
+            "position": "સોફ્ટવેર ઇન્જિનિયર",
+            "startDate": "2015-06-01",
+            "endDate": "2018-12-31"
+          },
+          {
+            "company": "ABC Inc.",
+            "position": "ઉત્પાદ વ્યવસ્થાપક",
+            "startDate": "2019-01-01",
+            "endDate": null
+          }
+        ]
+      }
+    }

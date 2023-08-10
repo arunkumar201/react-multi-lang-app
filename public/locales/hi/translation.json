@@ -1,0 +1,61 @@
+{
+    "text1": {
+        "t": "रिएक्टजेएस एप्लिकेशन की नई दुनिया में आपका स्वागत है",
+        "currentDate":"आज है {{date, DATE_LONG}}"
+    },
+    "text2": {
+        "t": "यह रिएक्टजेएस एप्लिकेशन रिएक्ट हुक और आई18नेक्स्ट के साथ है"
+    },
+    "labels": {
+        "firstName": "जॉन",
+        "lastName": "डो",
+        "age": 30,
+        "email": "johndoe@example.com",
+        "address": {
+          "street": "123 मेन स्ट्रीट",
+          "city": "न्यूयॉर्क",
+          "state": "न्यूयॉर्क",
+          "zipCode": "10001",
+          "country": "संयुक्त राज्य"
+        },
+        "phoneNumbers": [
+          {
+            "type": "घर",
+            "number": "555-1234"
+          },
+          {
+            "type": "कार्य",
+            "number": "555-5678"
+          }
+        ],
+        "hobbies": ["पढ़ना", "पेंटिंग", "दौड़ना"],
+        "education": [
+          {
+            "degree": "विज्ञान के स्नातक",
+            "major": "कंप्यूटर विज्ञान",
+            "university": "ABC विश्वविद्यालय",
+            "year": 2015
+          },
+          {
+            "degree": "व्यवसाय प्रबंधन का मास्टर",
+            "major": "वित्त",
+            "university": "XYZ विश्वविद्यालय",
+            "year": 2018
+          }
+        ],
+        "employmentHistory": [
+          {
+            "company": "XYZ कॉर्पोरेशन",
+            "position": "सॉफ्टवेयर इंजीनियर",
+            "startDate": "2015-06-01",
+            "endDate": "2018-12-31"
+          },
+          {
+            "company": "ABC इंक।",
+            "position": "उत्पाद प्रबंधक",
+            "endDate": "2029-01-01",
+            "startDate": "2019-01-01"
+          }
+        ]
+      }
+}

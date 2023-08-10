@@ -1,0 +1,315 @@
+{
+  
+  "en": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 30,
+    "email": "johndoe@example.com",
+    "address": {
+      "street": "123 Main Street",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10001",
+      "country": "United States"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "555-1234"
+      },
+      {
+        "type": "work",
+        "number": "555-5678"
+      }
+    ],
+    "hobbies": ["reading", "painting", "running"],
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "major": "Computer Science",
+        "university": "ABC University",
+        "year": 2015
+      },
+      {
+        "degree": "Master of Business Administration",
+        "major": "Finance",
+        "university": "XYZ University",
+        "year": 2018
+      }
+    ],
+    "employmentHistory": [
+      {
+        "company": "XYZ Corporation",
+        "position": "Software Engineer",
+        "startDate": "2015-06-01",
+        "endDate": "2018-12-31"
+      },
+      {
+        "company": "ABC Inc.",
+        "position": "Product Manager",
+        "startDate": "2019-01-01",
+        "endDate": null
+      }
+    ]
+  },
+  "hi": {
+    "firstName": "जॉन",
+    "lastName": "डो",
+    "age": 30,
+    "email": "johndoe@example.com",
+    "address": {
+      "street": "123 मेन स्ट्रीट",
+      "city": "न्यूयॉर्क",
+      "state": "न्यूयॉर्क",
+      "zipCode": "10001",
+      "country": "संयुक्त राज्य"
+    },
+    "phoneNumbers": [
+      {
+        "type": "घर",
+        "number": "555-1234"
+      },
+      {
+        "type": "कार्य",
+        "number": "555-5678"
+      }
+    ],
+    "hobbies": ["पढ़ना", "पेंटिंग", "दौड़ना"],
+    "education": [
+      {
+        "degree": "विज्ञान के स्नातक",
+        "major": "कंप्यूटर विज्ञान",
+        "university": "ABC विश्वविद्यालय",
+        "year": 2015
+      },
+      {
+        "degree": "व्यवसाय प्रबंधन का मास्टर",
+        "major": "वित्त",
+        "university": "XYZ विश्वविद्यालय",
+        "year": 2018
+      }
+    ],
+    "employmentHistory": [
+      {
+        "company": "XYZ कॉर्पोरेशन",
+        "position": "सॉफ्टवेयर इंजीनियर",
+        "startDate": "2015-06-01",
+        "endDate": "2018-12-31"
+      },
+      {
+        "company": "ABC इंक।",
+        "position": "उत्पाद प्रबंधक",
+        "startDate": "2019-01-01",
+        "endDate": null
+      }
+    ]
+  },
+  "gj": {
+    "firstName": "જોન",
+    "lastName": "ડો",
+    "age": 30,
+    "email": "johndoe@example.com",
+    "address": {
+      "street": "123 મેન સ્ટ્રીટ",
+      "city": "ન્યૂયોર્ક",
+      "state": "ન્યૂયોર્ક",
+      "zipCode": "10001",
+      "country": "યુનાઇટેડ સ્ટેટ્સ"
+    },
+    "phoneNumbers": [
+      {
+        "type": "ઘર",
+        "number": "555-1234"
+      },
+      {
+        "type": "કાર્યસ્થળ",
+        "number": "555-5678"
+      }
+    ],
+    "hobbies": ["વાંચન", "પેઇન્ટિંગ", "દૌડવા"],
+    "education": [
+      {
+        "degree": "સાયન્સનો બેચલર",
+        "major": "કમ્પ્યુટર સાયન્સ",
+        "university": "ABC યુનિવર્સિટી",
+        "year": 2015
+      },
+      {
+        "degree": "વ્યવસાય વિશેષજ્ઞતાનો માસ્ટર",
+        "major": "ફાઇનાન્સ",
+        "university": "XYZ યુનિવર્સિટી",
+        "year": 2018
+      }
+    ],
+    "employmentHistory": [
+      {
+        "company": "XYZ કૉર્પોરેશન",
+        "position": "સોફ્ટવેર ઇન્જિનિયર",
+        "startDate": "2015-06-01",
+        "endDate": "2018-12-31"
+      },
+      {
+        "company": "ABC Inc.",
+        "position": "ઉત્પાદ વ્યવસ્થાપક",
+        "startDate": "2019-01-01",
+        "endDate": null
+      }
+    ]
+  },
+  "fr": {
+    "firstName": "Jean",
+    "lastName": "Dupont",
+    "age": 30,
+    "email": "johndoe@example.com",
+    "address": {
+      "street": "123 rue principale",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10001",
+      "country": "États-Unis"
+    },
+    "phoneNumbers": [
+      {
+        "type": "domicile",
+        "number": "555-1234"
+      },
+      {
+        "type": "travail",
+        "number": "555-5678"
+      }
+    ],
+    "hobbies": ["lecture", "peinture", "course"],
+    "education": [
+      {
+        "degree": "Licence en sciences",
+        "major": "Informatique",
+        "university": "Université ABC",
+        "year": 2015
+      },
+      {
+        "degree": "Maîtrise en administration des affaires",
+        "major": "Finance",
+        "university": "Université XYZ",
+        "year": 2018
+      }
+    ],
+    "employmentHistory": [
+      {
+        "company": "Corporation XYZ",
+        "position": "Ingénieur logiciel",
+        "startDate": "2015-06-01",
+        "endDate": "2018-12-31"
+      },
+      {
+        "company": "ABC Inc.",
+        "position": "Gestionnaire de produits",
+        "startDate": "2019-01-01",
+        "endDate": null
+      }
+    ]
+  },
+  "de": {
+    "firstName": "Johannes",
+    "lastName": "Müller",
+    "age": 30,
+    "email": "johndoe@example.com",
+    "address": {
+      "street": "123 Hauptstraße",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10001",
+      "country": "Vereinigte Staaten"
+    },
+    "phoneNumbers": [
+      {
+        "type": "private",
+        "number": "555-1234"
+      },
+      {
+        "type": "arbeit",
+        "number": "555-5678"
+      }
+    ],
+    "hobbies": ["lesen", "malen", "laufen"],
+    "education": [
+      {
+        "degree": "Bachelor in Informatik",
+        "major": "Informatik",
+        "university": "ABC Universität",
+        "year": 2015
+      },
+      {
+        "degree": "Master in Betriebswirtschaftslehre",
+        "major": "Finanzen",
+        "university": "XYZ Universität",
+        "year": 2018
+      }
+    ],
+    "employmentHistory": [
+      {
+        "company": "XYZ Corporation",
+        "position": "Softwareentwickler",
+        "startDate": "2015-06-01",
+        "endDate": "2018-12-31"
+      },
+      {
+        "company": "ABC Inc.",
+        "position": "Produktmanager",
+        "startDate": "2019-01-01",
+        "endDate": null
+      }
+    ]
+  },
+  "pt": {
+    "firstName": "João",
+    "lastName": "Silva",
+    "age": 30,
+    "email": "joaosilva@example.com",
+    "address": {
+      "street": "Rua Principal, 123",
+      "city": "Nova Iorque",
+      "state": "Nova Iorque",
+      "zipCode": "10001",
+      "country": "Estados Unidos"
+    },
+    "phoneNumbers": [
+      {
+        "type": "casa",
+        "number": "555-1234"
+      },
+      {
+        "type": "trabalho",
+        "number": "555-5678"
+      }
+    ],
+    "hobbies": ["ler", "pintar", "correr"],
+    "education": [
+      {
+        "degree": "Licenciatura em Ciência da Computação",
+        "major": "Ciência da Computação",
+        "university": "Universidade ABC",
+        "year": 2015
+      },
+      {
+        "degree": "Mestrado em Gestão de Empresas",
+        "major": "Finanças",
+        "university": "Universidade XYZ",
+        "year": 2018
+      }
+    ],
+    "employmentHistory": [
+      {
+        "company": "Corporação XYZ",
+        "position": "Engenheiro de Software",
+        "startDate": "2015-06-01",
+        "endDate": "2018-12-31"
+      },
+      {
+        "company": "ABC Inc.",
+        "position": "Gerente de Produto",
+        "startDate": "2019-01-01",
+        "endDate": null
+      }
+    ]
+  }
+}

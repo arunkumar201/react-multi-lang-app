@@ -1,0 +1,60 @@
+{
+  "text1": {
+    "t": "Bem-vindo ao novo mundo da aplicação ReactJS"
+  },
+  "text2": {
+    "t": "Esta é uma aplicação ReactJS com React Hook e I18NEXT"
+  },
+  "labels": {
+    "firstName": "João",
+    "lastName": "Silva",
+    "age": 30,
+    "email": "joaosilva@example.com",
+    "address": {
+      "street": "Rua Principal, 123",
+      "city": "Nova Iorque",
+      "state": "Nova Iorque",
+      "zipCode": "10001",
+      "country": "Estados Unidos"
+    },
+    "phoneNumbers": [
+      {
+        "type": "casa",
+        "number": "555-1234"
+      },
+      {
+        "type": "trabalho",
+        "number": "555-5678"
+      }
+    ],
+    "hobbies": ["ler", "pintar", "correr"],
+    "education": [
+      {
+        "degree": "Licenciatura em Ciência da Computação",
+        "major": "Ciência da Computação",
+        "university": "Universidade ABC",
+        "year": 2015
+      },
+      {
+        "degree": "Mestrado em Gestão de Empresas",
+        "major": "Finanças",
+        "university": "Universidade XYZ",
+        "year": 2018
+      }
+    ],
+    "employmentHistory": [
+      {
+        "company": "Corporação XYZ",
+        "position": "Engenheiro de Software",
+        "startDate": "2015-06-01",
+        "endDate": "2018-12-31"
+      },
+      {
+        "company": "ABC Inc.",
+        "position": "Gerente de Produto",
+        "startDate": "2019-01-01",
+        "endDate": null
+      }
+    ]
+  }
+}

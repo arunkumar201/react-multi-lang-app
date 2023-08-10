@@ -1,0 +1,61 @@
+{
+  "text1": {
+    "t": "Welcome to the new World of ReactJS Application",
+    "currentDate": "Today is {{date, DATE_LONG}}"
+  },
+  "text2": {
+    "t": "This is ReactJS application with React with React Hook and I18NEXT"
+  },
+  "labels": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 30,
+    "email": "johndoe@example.com",
+    "address": {
+      "street": "123 Main Street",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10001",
+      "country": "United States"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "555-1234"
+      },
+      {
+        "type": "work",
+        "number": "555-5678"
+      }
+    ],
+    "hobbies": ["reading", "painting", "running"],
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "major": "Computer Science",
+        "university": "ABC University",
+        "year": 2015
+      },
+      {
+        "degree": "Master of Business Administration",
+        "major": "Finance",
+        "university": "XYZ University",
+        "year": 2018
+      }
+    ],
+    "employmentHistory": [
+      {
+        "company": "XYZ Corporation",
+        "position": "Software Engineer",
+        "startDate": "2015-06-01",
+        "endDate": "2018-12-31"
+      },
+      {
+        "company": "ABC Inc.",
+        "position": "Product Manager",
+        "startDate": "2019-01-01",
+        "endDate": null
+      }
+    ]
+  }
+}

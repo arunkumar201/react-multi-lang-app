@@ -1,0 +1,61 @@
+{
+    "text1": {
+        "t": "Willkommen in der neuen World of ReactJS-Anwendung",
+        "currentDate":"Hoje é em {{date, DATE_LONG}}"
+    },
+    "text2": {
+        "t": "Dies ist die ReactJS-Anwendung mit React with React Hook und I18NEXT"
+    },
+    "labels": {
+        "firstName": "Johannes",
+        "lastName": "Müller",
+        "age": 30,
+        "email": "johndoe@example.com",
+        "address": {
+          "street": "123 Hauptstraße",
+          "city": "New York",
+          "state": "NY",
+          "zipCode": "10001",
+          "country": "Vereinigte Staaten"
+        },
+        "phoneNumbers": [
+          {
+            "type": "private",
+            "number": "555-1234"
+          },
+          {
+            "type": "arbeit",
+            "number": "555-5678"
+          }
+        ],
+        "hobbies": ["lesen", "malen", "laufen"],
+        "education": [
+          {
+            "degree": "Bachelor in Informatik",
+            "major": "Informatik",
+            "university": "ABC Universität",
+            "year": 2015
+          },
+          {
+            "degree": "Master in Betriebswirtschaftslehre",
+            "major": "Finanzen",
+            "university": "XYZ Universität",
+            "year": 2018
+          }
+        ],
+        "employmentHistory": [
+          {
+            "company": "XYZ Corporation",
+            "position": "Softwareentwickler",
+            "startDate": "2015-06-01",
+            "endDate": "2018-12-31"
+          },
+          {
+            "company": "ABC Inc.",
+            "position": "Produktmanager",
+            "startDate": "2019-01-01",
+            "endDate": null
+          }
+        ]
+      }
+}
